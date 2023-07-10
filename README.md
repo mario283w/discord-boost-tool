@@ -1,15 +1,6 @@
 
 # Discord-Boost-Tool
 
-Telegram Channel: https://t.me/AxiDevelopment
-
-Contact me! https://t.me/Dorukuz
-
-Discord : Dorukuz#4555
-
-https://axi-shop.tebex.io
-
-Axi Boost Tool / Booster Made By Dorukuz
 
 # Features
 
